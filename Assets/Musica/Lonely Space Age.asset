@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a3c245200b99dfc4c8ffc15b6deb2314, type: 3}
+  m_Name: Lonely Space Age
+  m_EditorClassIdentifier: Assembly-CSharp::MusicData
+  nombreCancion: Lonely Space Age
+  artista: Madeon
+  musicLenght: 
+  audio: {fileID: 8300000, guid: 3a3d1930f2be28042b51270b21280278, type: 3}
+  portada: {fileID: 21300000, guid: f3a74f1982e7e724285c3e2073f5ee87, type: 3}
